@@ -85,5 +85,6 @@ footer div {
     color: #024e76;
   }
 section {
-    pad: 60px;
+    padding: 60px;
+    background-image: url("https://static.fullstack-bootcamp.com/module-1/hero-bg.jpg");
 }
