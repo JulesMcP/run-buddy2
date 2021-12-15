@@ -117,25 +117,9 @@ section {
         color: #fce138;
         background-color: #024e76;
         border: none;
-        padding: 10px  10px ;
+        padding: 10px  20px ;
         font-size: 16px;
     }
-
-/* homepage hero */
-.hero {
-    margin: 20px;
-    background-color: white;
-    font-size: 20px;
-    color: blue;
-}
-  
-/* secondary page hero */
-.hero-secondary {
-    margin: 20px;
-    background-color: black;
-    font-size: 20px;
-    color: red;
-}
 
     /* What We Do paragraph start */
 
@@ -283,7 +267,8 @@ section {
        font-size: 32px;
    }
 
-   .contact-info p, .contact-info address {
+   .contact-info p, 
+   .contact-info address {
        margin: 20px 0;
        line-height: 1.5;
        font-size: 20px;
