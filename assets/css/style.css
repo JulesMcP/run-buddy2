@@ -448,7 +448,7 @@ section {
 
     .contact-form button:hover {
     color: var(--primary-color);
-    background: ;
+    background: var(--tertiary-color);
     }
 
    .contact-info a {
